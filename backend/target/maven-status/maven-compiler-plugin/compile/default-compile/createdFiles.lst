@@ -1,0 +1,9 @@
+com\product\catalog\controller\ProductController.class
+com\product\catalog\service\ProductService.class
+com\product\catalog\ProductCatalogApplication.class
+com\product\catalog\service\CsvService.class
+com\product\catalog\controller\AuthController.class
+com\product\catalog\model\Product.class
+com\product\catalog\controller\AuthController$LoginRequest.class
+com\product\catalog\model\User.class
+com\product\catalog\service\UserService.class
